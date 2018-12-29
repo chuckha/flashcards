@@ -1,0 +1,73 @@
+# Nouns
+(my) older sister,姉[あね]
+apartment,アパート
+younger sister,妹[いもうと]
+song,歌[うた]
+grandfather; old man,おじいさん
+younger brother,弟[おとうと]
+man,男[おとこ]の 人[ひと]
+older brother,お 兄[にい]さん
+older sister,お 姉[ねえ]さん
+grandmother; old woman,おばあさん
+woman,女[おんあ]の 人[ひと]
+company,会[かい] 社[しゃ]
+family,家[か] 族[ぞく]
+hair,髪[かみ]
+brothers and sisters,兄[きょう] 弟[だい]
+mouth,口[くち]
+country; place of origin,国[くに]
+car,車[くるま]
+game,ゲーム
+convenience store,コンビニ
+club activity,サークル
+cafeteria; dining commons,食[しょく] 堂[どう]
+(my) father,父[ちち]
+DVD,DVD（ディーブイディー）
+(my) mother,母[はは]
+eye,目[め]
+glasses,眼[め] 鏡[がね]
+
+# い-adjectives
+bright; smart; clever (conjugates like いい),頭[あたま]がいい
+cute,かわいい
+tall (stature),背[せ]が 高[たか]い
+short (stature),背[せ]が 低[ひく]い
+long,長[なが]い
+fast,速[はや]い
+short (length),短[みじか]い
+
+# な-adjectives
+kind,親[しん] 切[せつ](な)
+convenient,便[べん] 利[り](な)
+
+# U-verbs
+to sing (〜を),歌[うた]う
+to put on (a hat) (〜を),かぶる
+to get to know (〜を),知[し]る
+I know,知[し]っています
+I do not know,知[し]りません
+to live (〜にすんでいます),住[す]む
+to put on (items below your waist) (〜を),はく
+to gain weight,太[ふと]る
+to be on the heavy side,太[ふと]っています
+
+# Ru-verbs
+to put on (glasses),(めがねを)かける
+to put on (clothes above your waist) (〜を),着[き]る
+to work for (〜につとめています),務[つと]める
+to lose weight,やせる
+to be thin,やせています
+
+# Irregular Verb
+to get married (〜と),結婚[けっこん]する
+
+# Adverbs and Other Expressions
+...,but,〜が
+not...anything,何[]も+negative
+[counter for anything],〜人[にん]
+one person,一[ひと] 人[り]
+two people,二[ふた] 人[り]
+nothing in particular,別[べつ]に+negative
+Hello? (used on the phone),もしもし
+of course,もちろん
+if you like,よかったら
