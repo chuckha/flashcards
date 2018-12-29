@@ -1,0 +1,63 @@
+# Nouns
+money,お金[かね]
+bath,お 風[ふ] 呂[ろ]
+kanji; Chinese character,漢[かん] 字[じ]
+textbook,教[きょ] 科[か] 書[しょ]
+this week,今[こん] 週[しゅう]
+CD,CD（シーディー）
+municipal hospital,市[し] 民[みん] 病[びょう] 院[いん]
+shower,シャワー
+next,次
+electricity,電[でん] 気[き]
+train,電[でん] 車[しゃ]
+baggage,荷[に] 物[もつ]
+personal computer,パソコン
+page,パージ
+window,窓[まど]
+night,夜[よる]
+next week,来[らい] 週[しゅう]
+next year,来[らい] 年[ねん]
+
+# な-adjectives
+tough (situation),大[たい] 変[へん] (な)
+
+# U-verbs
+to play; to spend time pleasantly,遊[あそ]ぶ
+to hurry,急[いそ]ぐ
+to take a bath,お 風[ふ] 呂[ろ]に 入[はい]る
+to return (a thing) (person に thing を),返[かえ]す
+to turn off; to erase (〜を),消[け]す
+to die,死[し]ぬ
+to sit down (seat に),座[すわ]る
+to stand up,立[た]つ
+to smoke,たばこを 吸[す]う
+to use (〜を),使[つか]う
+to help (person/task を),手[て] 伝[つだ]う
+to enter (〜に),入[はい]る
+to carry; to hold (〜を),持[も]つ
+"(1) to be absent (from...) (〜を)
+(2) to rest",休[やす]む
+
+# Ru-verbs
+to open (something) (〜を),開[あ]ける
+to teach; to instruct (person に thing を),教[おし]える
+to get off (〜を),降[お]りる
+to borrow (person に thing を),借[か]りる
+to close (something) (〜を),閉[し]める
+to take a shower,シャワーを 浴[あ]びる
+to turn on (〜を),つける
+to make a phone call (〜に),電[でん] 話[わ]をかける
+to forget; to leave behind (〜を),忘[わす]れる
+
+# Irregular Verbs
+to bring (a person) (〜を),連[つ]れてくる
+to bring (a thing) (〜を),持[も]ってくる
+
+# Adverbs and Other Expressions
+later on,後[あと]で
+(do something) late,遅[おそ]く
+because...,〜から
+That would be fine.; That wouldn't be necessary.,結[けっ] 構[こう]です
+right away,すぐ
+Really?,本[本] 当[とう]ですか
+slowly; leisurely; unhurriedly,ゆっくり

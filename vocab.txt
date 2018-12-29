@@ -53,3 +53,55 @@ very	とても	chapter05
 what kind of...	どんな	chapter05
 [counter for flat objects]	〜まい	chapter05
 to (a place); as far as (a place); till (a time)	〜まで	chapter05
+money	お金[かね]	chapter06
+bath	お 風[ふ] 呂[ろ]	chapter06
+kanji; Chinese character	漢[かん] 字[じ]	chapter06
+textbook	教[きょ] 科[か] 書[しょ]	chapter06
+this week	今[こん] 週[しゅう]	chapter06
+CD	CD（シーディー）	chapter06
+municipal hospital	市[し] 民[みん] 病[びょう] 院[いん]	chapter06
+shower	シャワー	chapter06
+next	次	chapter06
+electricity	電[でん] 気[き]	chapter06
+train	電[でん] 車[しゃ]	chapter06
+baggage	荷[に] 物[もつ]	chapter06
+personal computer	パソコン	chapter06
+page	パージ	chapter06
+window	窓[まど]	chapter06
+night	夜[よる]	chapter06
+next week	来[らい] 週[しゅう]	chapter06
+next year	来[らい] 年[ねん]	chapter06
+tough (situation)	大[たい] 変[へん] (な)	chapter06
+to play; to spend time pleasantly	遊[あそ]ぶ	chapter06
+to hurry	急[いそ]ぐ	chapter06
+to take a bath	お 風[ふ] 呂[ろ]に 入[はい]る	chapter06
+to return (a thing) (person に thing を)	返[かえ]す	chapter06
+to turn off; to erase (〜を)	消[け]す	chapter06
+to die	死[し]ぬ	chapter06
+to sit down (seat に)	座[すわ]る	chapter06
+to stand up	立[た]つ	chapter06
+to smoke	たばこを 吸[す]う	chapter06
+to use (〜を)	使[つか]う	chapter06
+to help (person/task を)	手[て] 伝[つだ]う	chapter06
+to enter (〜に)	入[はい]る	chapter06
+to carry; to hold (〜を)	持[も]つ	chapter06
+"(1) to be absent (from...) (〜を)
+(2) to rest"	休[やす]む	chapter06
+to open (something) (〜を)	開[あ]ける	chapter06
+to teach; to instruct (person に thing を)	教[おし]える	chapter06
+to get off (〜を)	降[お]りる	chapter06
+to borrow (person に thing を)	借[か]りる	chapter06
+to close (something) (〜を)	閉[し]める	chapter06
+to take a shower	シャワーを 浴[あ]びる	chapter06
+to turn on (〜を)	つける	chapter06
+to make a phone call (〜に)	電[でん] 話[わ]をかける	chapter06
+to forget; to leave behind (〜を)	忘[わす]れる	chapter06
+to bring (a person) (〜を)	連[つ]れてくる	chapter06
+to bring (a thing) (〜を)	持[も]ってくる	chapter06
+later on	後[あと]で	chapter06
+(do something) late	遅[おそ]く	chapter06
+because...	〜から	chapter06
+That would be fine.; That wouldn't be necessary.	結[けっ] 構[こう]です	chapter06
+right away	すぐ	chapter06
+Really?	本[本] 当[とう]ですか	chapter06
+slowly; leisurely; unhurriedly	ゆっくり	chapter06
