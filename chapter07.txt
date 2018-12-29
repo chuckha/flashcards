@@ -62,7 +62,7 @@ to be thin,やせています
 to get married (〜と),結婚[けっこん]する
 
 # Adverbs and Other Expressions
-...,but,〜が
+"...,but",〜が
 not...anything,何[]も+negative
 [counter for anything],〜人[にん]
 one person,一[ひと] 人[り]

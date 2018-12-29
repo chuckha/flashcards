@@ -19,6 +19,16 @@ many; a lot	たくさん	chapter04
 together with (a person)	〜と	chapter04
 why	どうして	chapter04
 alone	一[ひと] 人[り]で	chapter04
+right (〜の)	右[みぎ]	chapter04
+left (〜の)	左[ひだり]	chapter04
+front (〜の)	前[まえ]	chapter04
+back (〜の)	後[うし]ろ	chapter04
+inside (〜の)	中[なか]	chapter04
+on (〜の)	上[うえ]	chapter04
+under (〜の)	下[した]	chapter04
+near; nearby (〜の)	近[ちか]く	chapter04
+next (〜の)	隣[となり]	chapter04
+between (〜の)	間[あいだ]	chapter04
 sea	海[うみ]	chapter05
 postal stamps	切[きっ] 手[て]	chapter05
 ticket	切[きっ] 符[ぷ]	chapter05
@@ -126,3 +136,63 @@ That would be fine.; That wouldn't be necessary.	結[けっ] 構[こう]です	c
 right away	すぐ	chapter06
 Really?	本[本] 当[とう]ですか	chapter06
 slowly; leisurely; unhurriedly	ゆっくり	chapter06
+(my) older sister	姉[あね]	chapter07
+apartment	アパート	chapter07
+younger sister	妹[いもうと]	chapter07
+song	歌[うた]	chapter07
+grandfather; old man	おじいさん	chapter07
+younger brother	弟[おとうと]	chapter07
+man	男[おとこ]の 人[ひと]	chapter07
+older brother	お 兄[にい]さん	chapter07
+older sister	お 姉[ねえ]さん	chapter07
+grandmother; old woman	おばあさん	chapter07
+woman	女[おんあ]の 人[ひと]	chapter07
+company	会[かい] 社[しゃ]	chapter07
+family	家[か] 族[ぞく]	chapter07
+hair	髪[かみ]	chapter07
+brothers and sisters	兄[きょう] 弟[だい]	chapter07
+mouth	口[くち]	chapter07
+country; place of origin	国[くに]	chapter07
+car	車[くるま]	chapter07
+game	ゲーム	chapter07
+convenience store	コンビニ	chapter07
+club activity	サークル	chapter07
+cafeteria; dining commons	食[しょく] 堂[どう]	chapter07
+(my) father	父[ちち]	chapter07
+DVD	DVD（ディーブイディー）	chapter07
+(my) mother	母[はは]	chapter07
+eye	目[め]	chapter07
+glasses	眼[め] 鏡[がね]	chapter07
+bright; smart; clever (conjugates like いい)	頭[あたま]がいい	chapter07
+cute	かわいい	chapter07
+tall (stature)	背[せ]が 高[たか]い	chapter07
+short (stature)	背[せ]が 低[ひく]い	chapter07
+long	長[なが]い	chapter07
+fast	速[はや]い	chapter07
+short (length)	短[みじか]い	chapter07
+kind	親[しん] 切[せつ](な)	chapter07
+convenient	便[べん] 利[り](な)	chapter07
+to sing (〜を)	歌[うた]う	chapter07
+to put on (a hat) (〜を)	かぶる	chapter07
+to get to know (〜を)	知[し]る	chapter07
+I know	知[し]っています	chapter07
+I do not know	知[し]りません	chapter07
+to live (〜にすんでいます)	住[す]む	chapter07
+to put on (items below your waist) (〜を)	はく	chapter07
+to gain weight	太[ふと]る	chapter07
+to be on the heavy side	太[ふと]っています	chapter07
+to put on (glasses)	(めがねを)かける	chapter07
+to put on (clothes above your waist) (〜を)	着[き]る	chapter07
+to work for (〜につとめています)	務[つと]める	chapter07
+to lose weight	やせる	chapter07
+to be thin	やせています	chapter07
+to get married (〜と)	結婚[けっこん]する	chapter07
+...,but	〜が	chapter07
+not...anything	何[]も+negative	chapter07
+[counter for anything]	〜人[にん]	chapter07
+one person	一[ひと] 人[り]	chapter07
+two people	二[ふた] 人[り]	chapter07
+nothing in particular	別[べつ]に+negative	chapter07
+Hello? (used on the phone)	もしもし	chapter07
+of course	もちろん	chapter07
+if you like	よかったら	chapter07
