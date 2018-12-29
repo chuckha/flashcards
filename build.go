@@ -40,8 +40,6 @@ func main() {
 			fmt.Fprintln(os.Stderr, "reading standard input:", err)
 		}
 
-		fmt.Println(clean.String())
-
 		r := csv.NewReader(&clean)
 		records, err := r.ReadAll()
 		if err != nil {

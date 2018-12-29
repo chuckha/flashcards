@@ -1,2 +1,55 @@
 sea	海[うみ]	chapter05
-postal stamps	切[] 手[]	chapter05
+postal stamps	切[きっ] 手[て]	chapter05
+ticket	切[きっ] 符[ぷ]	chapter05
+surfing	サーフィン	chapter05
+homework	宿[しゅく] 題[だい]	chapter05
+food	食[た]べ 物[もの]	chapter05
+birthday	誕生[たんじょう] 日[び]	chapter05
+test	テスト	chapter05
+weather	天[てん] 気[き]	chapter05
+drink	飲[の] み物[もの]	chapter05
+postcard	葉[は] 書[がき]	chapter05
+bus	バス	chapter05
+airplane	飛[ひ] 行[こう] 機[き]	chapter05
+room	部屋[へや]	chapter05
+I (used by men)	僕[ぼく]	chapter05
+holiday; day off; absence	休[やす] み	chapter05
+travel	旅[りょ] 行[こう]	chapter05
+new	新[あたら]しい	chapter05
+hot (weather)	暑[あつ]い	chapter05
+hot (thing)	熱[あつ]い	chapter05
+busy (people/days)	忙[いそが]しい	chapter05
+large	大[おお]きい	chapter05
+interesting; funny	面[おも] 白[しろ]い	chapter05
+good-looking (conjugates like いい)	かっこいい	chapter05
+frightening	怖[こわ]い	chapter05
+cold (weather--not used for things)	寒[さむ]い	chapter05
+fun	楽[たの]しい	chapter05
+small	小[ちい]さい	chapter05
+boring	つまらない	chapter05
+old (thing--not used for people)	古[ふる]い	chapter05
+difficult	難[むずか]しい	chapter05
+easy (problem); kind (person)	やさしい	chapter05
+inexpensive; cheap (thing)	安[やす]い	chapter05
+disgusted with; to dislike (〜が)	嫌[さら]い(な)	chapter05
+beautiful; clean	きれい(な)	chapter05
+healthy; energetic	元[げん] 気[き](な)	chapter05
+quiet	静[しず]か(な)	chapter05
+fond of; to like (〜が)	好[す]き(な)	chapter05
+to hate (〜が)	大[だい] 嫌[きら]い(な)	chapter05
+very fond of; to love (〜が)	大[だい] 好[す]き(な)	chapter05
+lively	にぎやか(な)	chapter05
+not busy; to have a lot of free time	暇[ひま] (な)	chapter05
+to swim	泳[およ]ぐ	chapter05
+to ask (person に)	聞[き]く	chapter05
+to ride; to board (〜に)	乗[の]る	chapter05
+to do; to perform (〜を)	やる	chapter05
+to go out	出[で]かける	chapter05
+together	一[いっ] 緒[しょ]に	chapter05
+extremely	すごく	chapter05
+and then	それから	chapter05
+It's okay.; Not to worry.; Everything is under control.	大[だい] 丈[じょう] 夫[ぶ]	chapter05
+very	とても	chapter05
+what kind of...	どんな	chapter05
+[counter for flat objects]	〜まい	chapter05
+to (a place); as far as (a place); till (a time)	〜まで	chapter05

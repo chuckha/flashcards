@@ -1,3 +1,66 @@
 # nouns
 sea,海[うみ]
-postal stamps,切[] 手[]
+postal stamps,切[きっ] 手[て]
+ticket,切[きっ] 符[ぷ]
+surfing,サーフィン
+homework,宿[しゅく] 題[だい]
+food,食[た]べ 物[もの]
+birthday,誕生[たんじょう] 日[び]
+test,テスト
+weather,天[てん] 気[き]
+drink,飲[の] み物[もの]
+postcard,葉[は] 書[がき]
+bus,バス
+airplane,飛[ひ] 行[こう] 機[き]
+room,部屋[へや]
+I (used by men),僕[ぼく]
+holiday; day off; absence,休[やす] み
+travel,旅[りょ] 行[こう]
+
+# い-adjectives
+new,新[あたら]しい
+hot (weather),暑[あつ]い
+hot (thing),熱[あつ]い
+busy (people/days),忙[いそが]しい
+large,大[おお]きい
+interesting; funny,面[おも] 白[しろ]い
+good-looking (conjugates like いい),かっこいい
+frightening,怖[こわ]い
+cold (weather--not used for things),寒[さむ]い
+fun,楽[たの]しい
+small,小[ちい]さい
+boring,つまらない
+old (thing--not used for people),古[ふる]い
+difficult,難[むずか]しい
+easy (problem); kind (person),やさしい
+inexpensive; cheap (thing),安[やす]い
+
+# な-adjectives
+disgusted with; to dislike (〜が),嫌[さら]い(な)
+beautiful; clean,きれい(な)
+healthy; energetic,元[げん] 気[き](な)
+quiet,静[しず]か(な)
+fond of; to like (〜が),好[す]き(な)
+to hate (〜が),大[だい] 嫌[きら]い(な)
+very fond of; to love (〜が),大[だい] 好[す]き(な)
+lively,にぎやか(な)
+not busy; to have a lot of free time,暇[ひま] (な)
+
+# U-verbs
+to swim,泳[およ]ぐ
+to ask (person に),聞[き]く
+to ride; to board (〜に),乗[の]る
+to do; to perform (〜を),やる
+
+# Ru-verb
+to go out,出[で]かける
+
+# Adverbs and Other Expressions
+together,一[いっ] 緒[しょ]に
+extremely,すごく
+and then,それから
+It's okay.; Not to worry.; Everything is under control.,大[だい] 丈[じょう] 夫[ぶ]
+very,とても
+what kind of...,どんな
+[counter for flat objects],〜まい
+to (a place); as far as (a place); till (a time),〜まで
