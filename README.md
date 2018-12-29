@@ -8,4 +8,4 @@ Import `vocab.txt` to Anki.
 
 You can comment the chapter text files, the comments will be ignored as well as empty lines.
 
-The tab separated values are Front; Back; CSV of tags.
+the syntax of vocab.txt is front, back, tags
