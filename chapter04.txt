@@ -26,3 +26,15 @@ many; a lot,たくさん
 together with (a person),〜と
 why,どうして
 alone,一[ひと] 人[り]で
+
+# Location words
+right (〜の),右[みぎ]
+left (〜の),左[ひだり]
+front (〜の),前[まえ]
+back (〜の),後[うし]ろ
+inside (〜の),中[なか]
+on (〜の),上[うえ]
+under (〜の),下[した]
+near; nearby (〜の),近[ちか]く
+next (〜の),隣[となり]
+between (〜の),間[あいだ]
