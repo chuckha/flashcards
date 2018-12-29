@@ -43,6 +43,7 @@ func main() {
 		r := csv.NewReader(&clean)
 		records, err := r.ReadAll()
 		if err != nil {
+			fmt.Println("error in file " + arg)
 			panic(err)
 		}
 		basename := filepath.Base(arg)

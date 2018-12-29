@@ -1,0 +1,28 @@
+# Nouns
+when...; at the time of ... (〜の),時[とく]
+Monday,月[げつ] 曜[よう] 日[び]
+Tuesday,火[か] 曜[よう] 日[び]
+Wednesday,水[すい] 曜[よう] 日[び]
+Thursday,木[もく] 曜[よう] 日[び]
+Friday,金[きん] 曜[よう] 日[び]
+
+# U-verbs
+to meet; to see (a person) (person に),会[あ]う
+there is ... (place に thing が),ある
+to buy (〜を),買[か]う
+to write (person に thing を),書[か]く
+to take (a picture) (〜を),撮[と]る
+to wait (〜を),待[ま]つ
+to understand (〜が),わかる
+
+# Ru-verb
+(a person) is in...; stays at (place に person が),いる
+
+# Adverbs and Other Expressions
+about (approximate measurement),〜ぐらい
+I'm sorry.,ごめんなさい
+so; therefore,だから
+many; a lot,たくさん
+together with (a person),〜と
+why,どうして
+alone,一[ひと] 人[り]で

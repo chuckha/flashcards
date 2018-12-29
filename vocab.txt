@@ -1,3 +1,24 @@
+when...; at the time of ... (〜の)	時[とく]	chapter04
+Monday	月[げつ] 曜[よう] 日[び]	chapter04
+Tuesday	火[か] 曜[よう] 日[び]	chapter04
+Wednesday	水[すい] 曜[よう] 日[び]	chapter04
+Thursday	木[もく] 曜[よう] 日[び]	chapter04
+Friday	金[きん] 曜[よう] 日[び]	chapter04
+to meet; to see (a person) (person に)	会[あ]う	chapter04
+there is ... (place に thing が)	ある	chapter04
+to buy (〜を)	買[か]う	chapter04
+to write (person に thing を)	書[か]く	chapter04
+to take (a picture) (〜を)	撮[と]る	chapter04
+to wait (〜を)	待[ま]つ	chapter04
+to understand (〜が)	わかる	chapter04
+(a person) is in...; stays at (place に person が)	いる	chapter04
+about (approximate measurement)	〜ぐらい	chapter04
+I'm sorry.	ごめんなさい	chapter04
+so; therefore	だから	chapter04
+many; a lot	たくさん	chapter04
+together with (a person)	〜と	chapter04
+why	どうして	chapter04
+alone	一[ひと] 人[り]で	chapter04
 sea	海[うみ]	chapter05
 postal stamps	切[きっ] 手[て]	chapter05
 ticket	切[きっ] 符[ぷ]	chapter05
