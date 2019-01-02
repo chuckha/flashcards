@@ -8,7 +8,7 @@ food,食[た]べ 物[もの]
 birthday,誕生[たんじょう] 日[び]
 test,テスト
 weather,天[てん] 気[き]
-drink,飲[の] み物[もの]
+drink,飲[の]み 物[もの]
 postcard,葉[は] 書[がき]
 bus,バス
 airplane,飛[ひ] 行[こう] 機[き]
@@ -36,7 +36,7 @@ easy (problem); kind (person),やさしい
 inexpensive; cheap (thing),安[やす]い
 
 # な-adjectives
-disgusted with; to dislike (〜が),嫌[さら]い(な)
+disgusted with; to dislike (〜が),嫌[きら]い(な)
 beautiful; clean,きれい(な)
 healthy; energetic,元[げん] 気[き](な)
 quiet,静[しず]か(な)
