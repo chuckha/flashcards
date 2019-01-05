@@ -9,19 +9,28 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+
+	"github.com/pkg/errors"
 )
 
-func main() {
-	var clean bytes.Buffer
+// go run build.go vocab
 
-	out := "vocab.txt"
-
-	var vocab bytes.Buffer
-	w := csv.NewWriter(&vocab)
-	w.Comma = '\t'
-	for _, arg := range os.Args[1:] {
-		// read the file
-		f, _ := os.Open(arg)
+func walker(collector *csv.Writer) filepath.WalkFunc {
+	return func(path string, info os.FileInfo, err error) error {
+		if strings.HasSuffix(path, "vocab.txt") {
+			return nil
+		}
+		if info.IsDir() {
+			return nil
+		}
+		if err != nil {
+			return err
+		}
+		var clean bytes.Buffer
+		f, err := os.Open(path)
+		if err != nil {
+			return errors.Wrap(err, "failed to open: "+path)
+		}
 		scanner := bufio.NewScanner(f)
 		for scanner.Scan() {
 			txt := scanner.Text()
@@ -37,25 +46,37 @@ func main() {
 			fmt.Fprintln(&clean, txt)
 		}
 		if err := scanner.Err(); err != nil {
-			fmt.Fprintln(os.Stderr, "reading standard input:", err)
+			return errors.Wrap(err, path)
 		}
 
 		r := csv.NewReader(&clean)
 		records, err := r.ReadAll()
 		if err != nil {
-			fmt.Println("error in file " + arg)
-			panic(err)
+			return errors.Wrap(err, path)
 		}
-		basename := filepath.Base(arg)
+		basename := filepath.Base(path)
 		tag := strings.TrimSuffix(basename, filepath.Ext(basename))
 		for _, record := range records {
 			record = append(record, tag)
-			w.Write(record)
+			collector.Write(record)
 		}
-		w.Flush()
+		collector.Flush()
+		return nil
 	}
+}
 
-	if err := ioutil.WriteFile(out, vocab.Bytes(), os.FileMode(int(0644))); err != nil {
+func main() {
+	out := os.Args[1] + ".txt"
+	var collection bytes.Buffer
+	w := csv.NewWriter(&collection)
+	w.Comma = '\t'
+
+	if err := filepath.Walk(os.Args[1], walker(w)); err != nil {
+		fmt.Printf("%+v", err)
+		os.Exit(1)
+	}
+	fmt.Println(filepath.Join(os.Args[1], out))
+	if err := ioutil.WriteFile(filepath.Join(os.Args[1], out), collection.Bytes(), os.FileMode(int(0644))); err != nil {
 		fmt.Println(err)
 	}
 }

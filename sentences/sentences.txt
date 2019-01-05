@@ -1,0 +1,71 @@
+I don't have a TV.	テレビがありません。	chapter04
+Do you have time?	&nbsp;時[じ] 間[かん]がありますか。	chapter04
+There will be an exam on Tuesday.	火[か] 曜[よう] 日[び]にテストがあります。	chapter04
+There’s an international student over there.	あそこに 留[りゅう] 学[がく] 生[せい]がいます。	chapter04
+I have a Japanese friend.	日[に] 本[ほん] 人[じん]の 友[とも]だちがいます。	chapter04
+Where is McDonalds?	マクドナルドはどこですか。	chapter04
+McDonald's is in front of that department store.	マクドナルドはあのデパートの 前[まえ]です。	chapter04
+The bank is next to the library.	銀[ぎん] 行[こう]は 図[と] 書[しょ] 館[かん]の 隣[となり]です。	chapter04
+The umbrella is under the table.	かさはテーブルの 下[した]です。	chapter04
+The restaurant is between the department store and the hospital.	レストランはデパートと 病[びょう] 院[いん]の 間[あいだ]です。	chapter04
+I waited for Mary in front of the Mos Burger place.	私[わたし]はモスバーガーの 前[まえ]でメアリーさんを 待[ま]ちました。	chapter04
+Professor Yamashita was a student at Sakura University.	&nbsp;山[やま] 下[した] 先[せん] 生[せい]はさくら 大[だい] 学[がく]の 学[がく] 生[せ]でした。	chapter04
+That was not a Japanese movie.	あれは 日[に] 本[ほん]の 映[えい] 画[が]じゃなかったです。	chapter04
+Mary returned home at about nine.	メアリーさんは 九[く] 時[じ]ごろうちに 帰[かえ]りました。	chapter04
+I did not study Japanese yesterday.	私[わたし]はきのう 日[に] 本[ほん] 語[ご]を 勉[べん] 強[きょう]しませんでした。	chapter04
+I went to Kyoto yesterday. Professor Yamashita went to Kyoto yesterday, too.	私[わたし]はきのう 京[きょう] 都[と]に 行[い]きました。 山[やま] 下[した] 先[せん] 生[せい]もきのう 京[きょう] 都[と]に 行[い]きました。	chapter04
+Mary bought shoes. Mary bought a bag too.	メアリーさんはくつを 買[か]いました。メアリーさんはかばんも 買[か]いました。	chapter04
+I went to Kyoto last week. I went to Osaka, too.	私[わたし]は 先[せん] 週[しゅう] 京[きゅう] 都[と]に 行[い]きました。 大[おお] 阪[さか]にも 行[い]きました。	chapter04
+Robert went to a party on Saturday. He went to a party on Sunday too.	ロバートさんは 土[ど] 曜[よう] 日[び]にパーティーに 行[い]きました。 日[にち] 曜[よ] 日[び]にもパーティーに 行[い]きました。	chapter04
+Mary waited for Takeshi there for an hour.	メアリーさんはそこでたけしさんを 一[いち] 時[じ] 間[かん] 待[ま]ちました。	chapter04
+I studied Japanese for about three hours yesterday.	私[わたし]はきのう 日[に] 本[ほん] 語[ご]を 三[さん] 時[じ] 間[かん]ぐらい 勉[べん] 強[きょう]しました。	chapter04
+(I) slept for seven and a half hours last night.	きのう 七[しち] 時[じ] 間[かん] 半[はん] 寝[ね]ました。	chapter04
+I took many pictures in Kyoto.	私[わたし]は 京[きょう] 都[と]で（ 写[しゃ] 真[しん]をたくさん・たくさん 写[しゃ] 真[しん]を） 撮[と]りました。	chapter04
+I ate a lot of vegetables.	（ 野[や] 菜[さい]をたくさん・たくさん 野[や] 菜[さい]を）食[た]べました。	chapter04
+I speak Japanese <u>and</u> English	日[に] 本[ほん] 語[ご]<u>と</u>英[えい] 語[ご]を 話[はん]します。	chapter04
+I went to Kyoto and Osaka.	京[きょう] 都[と]<u>と</u> 大[おお] 阪[さか]に 行[い]きました。	chapter04
+Mary will go to Korea <u>with</u> Sue.	メアリーさんはスーさん<u>と</u> 韓[かん] 国[こく]に 行[い]きます。	chapter04
+There's a McDonald's over there.	あそこにマクドナルドがあります。	chapter04
+I saw an interesting movie yesterday.	きのう、おもしろい 映[えい] 画[が]を見ました。	chapter05
+Professor Yamashita is a scary teacher.	山[やま] 下[した] 先[せん] 生[せい]はこわいせんせいです。	chapter05
+I took a beautiful picture in Kyoto.	京[きょう] 都[と]できれいな 写[しゃ] 真[しん]を 撮[と]りました。	chapter05
+Professor Yamashita is an energetic teacher.	山[やま] 下[した] 先[せん] 生[せい]は 元[げん] 気[き]な 先[せん] 生[せい]です。	chapter05
+it is cold	さむ<u>いです</u>	chapter05
+it is not cold	さむ<u>くないです</u>	chapter05
+It was cold	さむ<u>かったです</u>	chapter05
+it was not cold	さむ<u>くなかったです</u>	chapter05
+it is good	<u>いい</u>です	chapter05
+it is not good	<u>よ</u>くないです	chapter05
+it was good	<u>よ</u>かったです	chapter05
+it was not good	<u>よ</u>くなかったです	chapter05
+she is healthy	元[げん] 気[き]です	chapter05
+she is not healthy	元[げん] 気[き]じゃないです	chapter05
+she was healthy	元[げん] 気[き]でした	chapter05
+she was not healthy	元[げん] 気[き]じゃなかったです	chapter05
+The sea was very beautiful in Okinawa.	沖[おき] 縄[なわ] の 海[うみ]はとてもきれいでした。	chapter05
+This room is a little hot.	この 部[へ] 屋[や]はちょっと 暑[あつ]いです。	chapter05
+Robert likes his Japanese classes.	ロバートさんは 日[に] 本[ほん] 語[ご] のクラスが 好[す]きです。	chapter05
+Professor Yamashita dislikes fish.	山[やま] 下[した] 先[せん] 生[せい]は 魚[さかな]がきらいです。	chapter05
+Takeshi likes coffee a lot.	たけしさんはコーヒーが 大[だい] 好[す]きです。	chapter05
+Ms. Kim hates natto.	キムさんはなっとうが 大[だい]きらいです。	chapter05
+I neither like nor dislike (it).	好[す]きでもきらいでもないです。	chapter05
+This is my favorite book.	これは 私[わたし]の 好[す]きな 本[ほん]です。	chapter05
+Let's study in the library together.	一[いっ] 緒[しょ]に 図[と] 書[しょ] 館[かん]で 勉[べん] 強[きょう]しましょう。	chapter05
+Shall we drink coffee at a coffee shop?	喫[きっ] 茶[さ] 店[てん]でコーヒーを 飲[の]みましょうか。	chapter05
+Lee bought three stamps.	リーさんは 切[きっ] 手[て]を 三[さん] 枚[まい] 買[か]いました。	chapter05
+Please read the textbook.	教[きょう] 科[か] 書[しょ]を 読[よ]んでください。	chapter06
+Excuse me. Please teach me a little. (= Tell me, I need your advice.)	すみません。ちょっと 教[おし]えてください。	chapter06
+May I see the textbook? Yes, you may. You may. Please.	教[きょう] 科[か] 書[しょ]を 見[み]てもいいですか。はい、 見[み]てもいいですよ。いいでしょ。どうぞ。	chapter06
+You must not take pictures here.	ここで 写[しゃ] 真[しん]を 撮[と]ってはいけません。	chapter06
+I will borrow her notebook and photocopy it.	ノートを 借[か]りて、コピーします。	chapter06
+Today I got up at six and studied.	今日[きょう]は、 六[ろく] 時[じ]に 起[お]きて、 勉[べん] 強[きょう]しました。	chapter06
+Let's go to the cafeteria and have lunch.	食[しょく] 堂[どう]に 行[い]って、 昼[ひる]ご 飯[はん]を 食[た]べましょう。	chapter06
+I go to work by bus. (I take a bus to work.)	バスに 乗[の]って、 会[かい] 社[しゃ]に 行[い]きます。	chapter06
+I am sorry for not bringing in the textbook. (I left the book at home, and I am sorry.)	教[きょう] 科[か] 書[しょ]を 忘[わす]れて、すみません。	chapter06
+I will study this evening. (Because) we will have an exam tomorrow.	私は 今[こん] 晩[ばん] 勉[べん] 強[きょう]します。あしたテストがありますから。	chapter06
+Let's go by bus. (Because) taxis are expensive.	バスに 乗[の]りましょう。タクシーは 高[たか]いですから。	chapter06
+I'll do it.	(私)やりましょうか。	chapter06
+Shall I carry your bag?	荷[に] 物[もつ]おもちましょうか。	chapter06
+A: I went to bed at one o'clock yesterday. B: It's late.	A: きのう一時に寝ました。 B: 遅いすよ。	chapter06
+On weekends, I get up around 10:00 and eat late breakfast.	週[しゅう] 末[まつ]には、十時ごろ 起[お]きて、 遅[おそ]い 朝[あさ]ご 飯[はん]を食べます。	chapter06
+I went to bed late yesterday.	きのう、 遅[おそ]く 寝[ね]ました。	chapter06

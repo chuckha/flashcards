@@ -1,0 +1,28 @@
+"I don't have a TV.",テレビがありません。
+"Do you have time?",&nbsp;時[じ] 間[かん]がありますか。
+"There will be an exam on Tuesday.",火[か] 曜[よう] 日[び]にテストがあります。
+"There’s an international student over there.",あそこに 留[りゅう] 学[がく] 生[せい]がいます。
+"I have a Japanese friend.",日[に] 本[ほん] 人[じん]の 友[とも]だちがいます。
+"Where is McDonalds?",マクドナルドはどこですか。
+"McDonald's is in front of that department store.",マクドナルドはあのデパートの 前[まえ]です。
+"The bank is next to the library.",銀[ぎん] 行[こう]は 図[と] 書[しょ] 館[かん]の 隣[となり]です。
+"The umbrella is under the table.",かさはテーブルの 下[した]です。
+"The restaurant is between the department store and the hospital.",レストランはデパートと 病[びょう] 院[いん]の 間[あいだ]です。
+"I waited for Mary in front of the Mos Burger place.",私[わたし]はモスバーガーの 前[まえ]でメアリーさんを 待[ま]ちました。
+"Professor Yamashita was a student at Sakura University.",&nbsp;山[やま] 下[した] 先[せん] 生[せい]はさくら 大[だい] 学[がく]の 学[がく] 生[せ]でした。
+"That was not a Japanese movie.",あれは 日[に] 本[ほん]の 映[えい] 画[が]じゃなかったです。
+"Mary returned home at about nine.",メアリーさんは 九[く] 時[じ]ごろうちに 帰[かえ]りました。
+"I did not study Japanese yesterday.",私[わたし]はきのう 日[に] 本[ほん] 語[ご]を 勉[べん] 強[きょう]しませんでした。
+"I went to Kyoto yesterday. Professor Yamashita went to Kyoto yesterday, too.",私[わたし]はきのう 京[きょう] 都[と]に 行[い]きました。 山[やま] 下[した] 先[せん] 生[せい]もきのう 京[きょう] 都[と]に 行[い]きました。
+"Mary bought shoes. Mary bought a bag too.",メアリーさんはくつを 買[か]いました。メアリーさんはかばんも 買[か]いました。
+"I went to Kyoto last week. I went to Osaka, too.",私[わたし]は 先[せん] 週[しゅう] 京[きゅう] 都[と]に 行[い]きました。 大[おお] 阪[さか]にも 行[い]きました。
+"Robert went to a party on Saturday. He went to a party on Sunday too.",ロバートさんは 土[ど] 曜[よう] 日[び]にパーティーに 行[い]きました。 日[にち] 曜[よ] 日[び]にもパーティーに 行[い]きました。
+"Mary waited for Takeshi there for an hour.",メアリーさんはそこでたけしさんを 一[いち] 時[じ] 間[かん] 待[ま]ちました。
+"I studied Japanese for about three hours yesterday.",私[わたし]はきのう 日[に] 本[ほん] 語[ご]を 三[さん] 時[じ] 間[かん]ぐらい 勉[べん] 強[きょう]しました。
+"(I) slept for seven and a half hours last night.",きのう 七[しち] 時[じ] 間[かん] 半[はん] 寝[ね]ました。
+"I took many pictures in Kyoto.",私[わたし]は 京[きょう] 都[と]で（ 写[しゃ] 真[しん]をたくさん・たくさん 写[しゃ] 真[しん]を） 撮[と]りました。
+"I ate a lot of vegetables.",（ 野[や] 菜[さい]をたくさん・たくさん 野[や] 菜[さい]を）食[た]べました。
+"I speak Japanese <u>and</u> English",日[に] 本[ほん] 語[ご]<u>と</u>英[えい] 語[ご]を 話[はん]します。
+"I went to Kyoto and Osaka.",京[きょう] 都[と]<u>と</u> 大[おお] 阪[さか]に 行[い]きました。
+"Mary will go to Korea <u>with</u> Sue.",メアリーさんはスーさん<u>と</u> 韓[かん] 国[こく]に 行[い]きます。
+"There's a McDonald's over there.",あそこにマクドナルドがあります。
