@@ -1,5 +1,5 @@
 # Nouns
-money,お金[かね]
+money,お 金[かね]
 bath,お 風[ふ] 呂[ろ]
 kanji; Chinese character,漢[かん] 字[じ]
 textbook,教[きょ] 科[か] 書[しょ]
@@ -7,7 +7,7 @@ this week,今[こん] 週[しゅう]
 CD,CD（シーディー）
 municipal hospital,市[し] 民[みん] 病[びょう] 院[いん]
 shower,シャワー
-next,次
+next,次[つぎ]
 electricity,電[でん] 気[き]
 train,電[でん] 車[しゃ]
 baggage,荷[に] 物[もつ]
