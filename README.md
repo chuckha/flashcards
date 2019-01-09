@@ -1,11 +1,11 @@
-# Genki vocab
+# Genki vocab/sentences
 
-To make an importable deck, run make.
+The decks are already committed. To update them run make.
 
-Import `vocab.txt` to Anki.
+Import `vocab/vocab.txt` and `sentences/sentences.txt` to Anki.
 
 # Syntax
 
 You can comment the chapter text files, the comments will be ignored as well as empty lines.
 
-the syntax of vocab.txt is front, back, tags
+the syntax of the output is `front\tback\ttags`. You must import with HTML in fields enabled.

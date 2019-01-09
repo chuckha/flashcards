@@ -13,8 +13,6 @@ import (
 	"github.com/pkg/errors"
 )
 
-// go run build.go vocab
-
 func walker(collector *csv.Writer) filepath.WalkFunc {
 	return func(path string, info os.FileInfo, err error) error {
 		if strings.HasSuffix(path, "vocab.txt") {

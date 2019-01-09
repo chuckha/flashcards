@@ -11,6 +11,6 @@
 "Let's go by bus. (Because) taxis are expensive.",バスに 乗[の]りましょう。タクシーは 高[たか]いですから。
 "I'll do it.",(私)やりましょうか。
 "Shall I carry your bag?",荷[に] 物[もつ]おもちましょうか。
-"A: I went to bed at one o'clock yesterday. B: It's late.",A: きのう一時に寝ました。 B: 遅いすよ。
+"A: I went to bed at one o'clock yesterday. B: It's late.",A: きのう一時に寝ました。 B: 遅[おそ]いすよ。
 "On weekends, I get up around 10:00 and eat late breakfast.",週[しゅう] 末[まつ]には、十時ごろ 起[お]きて、 遅[おそ]い 朝[あさ]ご 飯[はん]を食べます。
 "I went to bed late yesterday.",きのう、 遅[おそ]く 寝[ね]ました。
