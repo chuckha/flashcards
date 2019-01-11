@@ -1,96 +1,96 @@
-あそこにマクドナルド{{c1::があります::there is}}。
-テレビ{{c1::がありません::do not have}}。
-時間{{c1::がありますか::do you have}}。
-火曜日にテスト{{c1::があります::there is}}。
-あそこに留学生{{c1::がいます::there is}}。
-日本人の友だち{{c1::がいます::have a}}。
-マクドナルド{{c1::はどこですか::where is}}。
-マクドナルドはあのデパート{{c1::の前です::is in front of}}。
-銀行は図書館{{c1::の隣です::next to}}。
-かさはテーブル{{c1::の下です}}。
-レストランはデパート{{c1::と}}病院{{c1::の間です::between}}。
-私はモスバーガー{{c1::の前で::in front of}}メアリーさんを待ちました。
-山下先生はさくら大学の学生{{c1::でした::was a}}。
-あれは日本の映画{{c1::じゃなかったです::was not a}}。
-メアリーさんは九時ごろうちに{{c1::帰りました::returned}}。
-私はきのう日本語を{{c1::勉強しませんでした::did not study}}。
-私はきのう京都に行きました。山下先生{{c1::もきのう京都に::Mr Yamashita went to Kyoto too}}行きました。
-メアリーさんはくつを買いました。メアリーさん{{c1::はかばんも買いました::bought a bag, too}}。
-私は先週京都に行きました。大阪{{c1::にも行きました::also went to}}。
-ロバートさんは土曜日にパーティーに行きました。日曜日{{c1::にもパーティーに行きました::went to a party (on Sunday), too}}。
-メアリーさんはそこでたけしさんを{{c1::一時間待ちました::waited for one hour}}。
-私はきのう日本語を{{c1::三時間ぐらい勉強しました::studied for about three hours}}。
-きのう{{c1::七時間半寝ました::slept for seven and a half hours}}。
-私は京都で{{c1::(写真をたくさん・たくさん写真を)::many photos}}撮りました。
-{{c1::(野菜をたくさん・たくさん野菜)::many vegetables}}食べました。
-{{c1::日本語と英語::Japanese and English}}を話します。
-{{c1::京都と大阪::Kyoto and Osaka}}に行きました。
-メアリーさんは{{c1::スーさんと韓国に行きます::go to Korea with Sue}}。
-きのう、{{c1::おもしろい::interesting}}映画を見ました。
-山下先生は{{c1::こわい::scary}}先生です。
-京都で{{c1::きれいな::beautiful}}写真を撮りました。
-山下先生は{{c1::元気な::energetic}}先生です。
-さむ{{c1::いです::present affirmative}}
-さむ{{c1::くないです::present negative}}
-さむ{{c1::かったです::past affirmative}}
-さむ{{c1::くなかったです::past negative}}
-{{c1::いい}}{{c2::です::present affirmative}}
-{{c1::よ}}{{c2::くないです::present negative}}
-{{c1::よ}}{{c2::かったです::past affirmative}}
-{{c1::よ}}{{c2::くなかったです::past negative}}
-元気{{c1::です::present affirmative}}
-元気{{c1::じゃないです::present negative}}
-元気{{c1::でした::past affirmative}}
-元気{{c1::じゃなかったです::past negative}}
-沖縄の海は{{c1::とても::very}}きれいでした。
-この部屋は{{c1::ちょっと::a little}}暑いです。
-ロバートさんは日本語のクラスが{{c1::好きです::likes}}。
-山下先生は魚が{{c1::きらいです::dislikes}}。
-たけしさんはコーヒーが{{c1::大好きです::loves}}。
-キムさんはなっとうが{{c1::大きらいです::hates}}。
-{{c1::好き::likes}}でも{{c1::きらい::dislikes}}でも{{c2::ないです}}。
-これは{{c1::私の好きな::my favorite}}本です。
-一緒に図書館で{{c1::勉強しましょう::let's study}}。
-喫茶店でコーヒーを{{c1::飲みましょうか::shall we drink?}}。
-リーさんは{{c1::切手を三枚::three stamps}}買いました。
-教科書を{{c1::読んでください::please read}}。
-すみません。ちょっと{{c1::教えてください::please teach}}。
-教科書を{{c1::見てもいいですか::may I see}}。はい、{{c1::見てもいいですよ}}。いいですよ。どうぞ。
-ここで写真を{{c1::撮ってはいけません::not allowed to take (photos)}}。
-ノートを{{c1::借りて::borrow}}、コピーします。
-今日は、六時に{{c1::起きて::woke up}}、勉強しました。
-食堂に{{c1::行って::let's go}}、昼ご飯を食べましょう。
-バスに{{c1::乗って::ride}}、会社に行きます。
-教科書を{{c1::忘れて::bringing}}、すみません。
-私は今晩勉強します。あしたテストが{{c1::ありますから::because there is}}。
-バスに乗りましょう。タクシーは{{c1::高いですから::because (taxis) are expensive}}。
-(私が){{c1::やりましょうか::I'll do it}}。
-荷物お{{c1::持ちましょうか::Shall I carry}}。
-A:きのう一時に寝ました。B:{{c1::遅い::late, adjective}}ですね。
-きのう、{{c1::遅く::late, adverb}}寝ました。
-スーさんは今{{c1::勉強しています::is studying}}。
-私は英語を{{c1::教えています::is teaching/teaches}}。
-メアリーさんは毎日日本語を{{c1::勉強しています::studies}}。
-山下先生は{{c1::結婚しています::is married}}。
-みちごさんは窓の近くに{{c1::座っています::is seated}}。
-スーさんはお金をたくさん{{c1::持っています::has}}。
-山下先生は母を{{c1::知っています::knows}}。
-トムさんはちょっと{{c1::太っています::is overweight}}。
-私の弟はとても{{c1::やせています::is thin}}。
-メアリーさんはTシャツを{{c1::着ています::is wearing/wears a}}。
-お父さんは{{c1::起きています::is awake}}。
-家族は東京に{{c1::住んでいます::lives}}。
-私の姉は日本の会社に{{c1::勤めています::works for}}。
-中国に{{c1::行っています::has gone to/is in}}。
-うちに{{c1::来ています::has come over}}。
-食べ{{c1::ています::is eating}}
-食べ{{c1::ていません::is not eating}}
-食べ{{c1::ていました::was eating}}
-食べ{{c1::ていませんでした::was not eating}}
-トムさんは髪が{{c1::長いです::has long}}。
-あのレストランの食べ物は{{c1::安くて::inexpensive}}、{{c1::おいしです::and delicious}}。
-ホテルは{{c1::きれいで::clean}}、{{c1::よかったです::and we were happy}}。
-山下先生は{{c1::日本人で::is a Japanese person}}、{{c1::五十歳ぐらいです::and is about 50 years old}}。
-デパートに{{c1::かばんを買いに::to buy a bag}}行きました。
-メアリーさんは日本に{{c1::日本語を勉強しに::to study Japanese}}来ました。
-私のクラスに(は)スウェーデン人の学生{{c1::が一人います::one person}}。
+1,あそこにマクドナルド{{c1::があります::there is}}。
+2,テレビ{{c1::がありません::do not have}}。
+3,時間{{c1::がありますか::do you have}}。
+4,火曜日にテスト{{c1::があります::there is}}。
+5,あそこに留学生{{c1::がいます::there is}}。
+6,日本人の友だち{{c1::がいます::have a}}。
+7,マクドナルド{{c1::はどこですか::where is}}。
+8,マクドナルドはあのデパート{{c1::の前です::is in front of}}。
+9,銀行は図書館{{c1::の隣です::next to}}。
+10,かさはテーブル{{c1::の下です::is under}}。
+11,レストランはデパート{{c1::と}}病院{{c1::の間です::between}}。
+12,私はモスバーガー{{c1::の前で::in front of}}メアリーさんを待ちました。
+13,山下先生はさくら大学の学生{{c1::でした::was a}}。
+14,あれは日本の映画{{c1::じゃなかったです::was not a}}。
+15,メアリーさんは九時ごろうちに{{c1::帰りました::returned}}。
+16,私はきのう日本語を{{c1::勉強しませんでした::did not study}}。
+17,私はきのう京都に行きました。山下先生{{c1::もきのう京都に::Mr Yamashita went to Kyoto too}}行きました。
+18,メアリーさんはくつを買いました。メアリーさん{{c1::はかばんも買いました::also bought a bag}}。
+19,私は先週京都に行きました。大阪{{c1::にも行きました::also went to}}。
+20,ロバートさんは土曜日にパーティーに行きました。日曜日{{c1::にもパーティーに行きました::also went to a party (on Sunday)}}。
+21,メアリーさんはそこでたけしさんを{{c1::一時間待ちました::waited for one hour}}。
+22,私はきのう日本語を{{c1::三時間ぐらい勉強しました::studied for about three hours}}。
+23,きのう{{c1::七時間半寝ました::slept for seven and a half hours}}。
+24,私は京都で{{c1::(写真をたくさん・たくさん写真を)::many photos}}撮りました。
+25,{{c1::(野菜をたくさん・たくさん野菜)::many vegetables}}食べました。
+26,{{c1::日本語と英語::Japanese and English}}を話します。
+27,{{c1::京都と大阪::Kyoto and Osaka}}に行きました。
+28,メアリーさんは{{c1::スーさんと韓国に行きます::go to Korea with Sue}}。
+1,きのう、{{c1::おもしろい::interesting}}映画を見ました。
+2,山下先生は{{c1::こわい::scary}}先生です。
+3,京都で{{c1::きれいな::beautiful}}写真を撮りました。
+4,山下先生は{{c1::元気な::energetic}}先生です。
+5,さむ{{c1::いです::present affirmative}}
+6,さむ{{c1::くないです::present negative}}
+7,さむ{{c1::かったです::past affirmative}}
+8,さむ{{c1::くなかったです::past negative}}
+9,{{c1::いい}}{{c2::です::present affirmative}}
+10,{{c1::よ}}{{c2::くないです::present negative}}
+11,{{c1::よ}}{{c2::かったです::past affirmative}}
+12,{{c1::よ}}{{c2::くなかったです::past negative}}
+13,元気{{c1::です::present affirmative}}
+14,元気{{c1::じゃないです::present negative}}
+15,元気{{c1::でした::past affirmative}}
+16,元気{{c1::じゃなかったです::past negative}}
+17,沖縄の海は{{c1::とても::very}}きれいでした。
+18,この部屋は{{c1::ちょっと::a little}}暑いです。
+19,ロバートさんは日本語のクラスが{{c1::好きです::likes}}。
+20,山下先生は魚が{{c1::きらいです::dislikes}}。
+21,たけしさんはコーヒーが{{c1::大好きです::loves}}。
+22,キムさんはなっとうが{{c1::大きらいです::hates}}。
+23,{{c1::好き::likes}}でも{{c1::きらい::dislikes}}でも{{c2::ないです}}。
+24,これは{{c1::私の好きな::my favorite}}本です。
+25,一緒に図書館で{{c1::勉強しましょう::let's study}}。
+26,喫茶店でコーヒーを{{c1::飲みましょうか::shall we drink?}}。
+27,リーさんは{{c1::切手を三枚::three stamps}}買いました。
+1,教科書を{{c1::読んでください::please read}}。
+2,すみません。ちょっと{{c1::教えてください::please teach}}。
+3,教科書を{{c1::見てもいいですか::may I see}}。はい、{{c1::見てもいいですよ}}。いいですよ。どうぞ。
+4,ここで写真を{{c1::撮ってはいけません::not allowed to take (photos)}}。
+5,ノートを{{c1::借りて::borrow}}、コピーします。
+6,今日は、六時に{{c1::起きて::woke up}}、勉強しました。
+7,食堂に{{c1::行って::let's go}}、昼ご飯を食べましょう。
+8,バスに{{c1::乗って::ride}}、会社に行きます。
+9,教科書を{{c1::忘れて::bringing}}、すみません。
+10,私は今晩勉強します。あしたテストが{{c1::ありますから::because there is}}。
+11,バスに乗りましょう。タクシーは{{c1::高いですから::because (taxis) are expensive}}。
+12,(私が){{c1::やりましょうか::I'll do it}}。
+13,荷物お{{c1::持ちましょうか::Shall I carry}}。
+14,A:きのう一時に寝ました。B:{{c1::遅い::late (adjective)}}ですね。
+15,きのう、{{c1::遅く::late (adverb)}}寝ました。
+1,スーさんは今{{c1::勉強しています::is studying}}。
+2,私は英語を{{c1::教えています::is teaching/teaches}}。
+3,メアリーさんは毎日日本語を{{c1::勉強しています::studies}}。
+4,山下先生は{{c1::結婚しています::is married}}。
+5,みちごさんは窓の近くに{{c1::座っています::is seated}}。
+6,スーさんはお金をたくさん{{c1::持っています::has}}。
+7,山下先生は母を{{c1::知っています::knows}}。
+8,トムさんはちょっと{{c1::太っています::is overweight}}。
+9,私の弟はとても{{c1::やせています::is thin}}。
+10,メアリーさんはTシャツを{{c1::着ています::is wearing/wears a}}。
+11,お父さんは{{c1::起きています::is awake}}。
+12,家族は東京に{{c1::住んでいます::lives}}。
+13,私の姉は日本の会社に{{c1::勤めています::works for}}。
+14,中国に{{c1::行っています::has gone to/is in}}。
+15,うちに{{c1::来ています::has come over}}。
+16,食べ{{c1::ています::is eating}}
+17,食べ{{c1::ていません::is not eating}}
+18,食べ{{c1::ていました::was eating}}
+19,食べ{{c1::ていませんでした::was not eating}}
+20,トムさんは髪が{{c1::長いです::has long}}。
+21,あのレストランの食べ物は{{c1::安くて::inexpensive}}、{{c1::おいしです::and delicious}}。
+22,ホテルは{{c1::きれいで::clean}}、{{c1::よかったです::and we were happy}}。
+23,山下先生は{{c1::日本人で::is a Japanese person}}、{{c1::五十歳ぐらいです::and is about 50 years old}}。
+24,デパートに{{c1::かばんを買いに::to buy a bag}}行きました。
+25,メアリーさんは日本に{{c1::日本語を勉強しに::to study Japanese}}来ました。
+26,私のクラスに(は)スウェーデン人の学生{{c1::が一人います::one person}}。

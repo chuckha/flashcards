@@ -1,36 +1,36 @@
 # 〜いてる
-スーさんは今{{c1::勉強しています::is studying}}。
-私は英語を{{c1::教えています::is teaching/teaches}}。
-メアリーさんは毎日日本語を{{c1::勉強しています::studies}}。
-山下先生は{{c1::結婚しています::is married}}。
-みちごさんは窓の近くに{{c1::座っています::is seated}}。
-スーさんはお金をたくさん{{c1::持っています::has}}。
-山下先生は母を{{c1::知っています::knows}}。
-トムさんはちょっと{{c1::太っています::is overweight}}。
-私の弟はとても{{c1::やせています::is thin}}。
-メアリーさんはTシャツを{{c1::着ています::is wearing/wears a}}。
-お父さんは{{c1::起きています::is awake}}。
-家族は東京に{{c1::住んでいます::lives}}。
-私の姉は日本の会社に{{c1::勤めています::works for}}。
-中国に{{c1::行っています::has gone to/is in}}。
-うちに{{c1::来ています::has come over}}。
-食べ{{c1::ています::is eating}}
-食べ{{c1::ていません::is not eating}}
-食べ{{c1::ていました::was eating}}
-食べ{{c1::ていませんでした::was not eating}}
+1,スーさんは今{{c1::勉強しています::is studying}}。
+2,私は英語を{{c1::教えています::is teaching/teaches}}。
+3,メアリーさんは毎日日本語を{{c1::勉強しています::studies}}。
+4,山下先生は{{c1::結婚しています::is married}}。
+5,みちごさんは窓の近くに{{c1::座っています::is seated}}。
+6,スーさんはお金をたくさん{{c1::持っています::has}}。
+7,山下先生は母を{{c1::知っています::knows}}。
+8,トムさんはちょっと{{c1::太っています::is overweight}}。
+9,私の弟はとても{{c1::やせています::is thin}}。
+10,メアリーさんはTシャツを{{c1::着ています::is wearing/wears a}}。
+11,お父さんは{{c1::起きています::is awake}}。
+12,家族は東京に{{c1::住んでいます::lives}}。
+13,私の姉は日本の会社に{{c1::勤めています::works for}}。
+14,中国に{{c1::行っています::has gone to/is in}}。
+15,うちに{{c1::来ています::has come over}}。
+16,食べ{{c1::ています::is eating}}
+17,食べ{{c1::ていません::is not eating}}
+18,食べ{{c1::ていました::was eating}}
+19,食べ{{c1::ていませんでした::was not eating}}
 
 # メアリーさんは髪が長いです
-トムさんは髪が{{c1::長いです::has long}}。
+20,トムさんは髪が{{c1::長いです::has long}}。
 
 # Te-forms for Joining Sentences
-あのレストランの食べ物は{{c1::安くて::inexpensive}}、{{c1::おいしです::and delicious}}。
-ホテルは{{c1::きれいで::clean}}、{{c1::よかったです::and we were happy}}。
-山下先生は{{c1::日本人で::is a Japanese person}}、{{c1::五十歳ぐらいです::and is about 50 years old}}。
+21,あのレストランの食べ物は{{c1::安くて::inexpensive}}、{{c1::おいしです::and delicious}}。
+22,ホテルは{{c1::きれいで::clean}}、{{c1::よかったです::and we were happy}}。
+23,山下先生は{{c1::日本人で::is a Japanese person}}、{{c1::五十歳ぐらいです::and is about 50 years old}}。
 
 # verb stem + に行く
-デパートに{{c1::かばんを買いに::to buy a bag}}行きました。
-メアリーさんは日本に{{c1::日本語を勉強しに::to study Japanese}}来ました。
+24,デパートに{{c1::かばんを買いに::to buy a bag}}行きました。
+25,メアリーさんは日本に{{c1::日本語を勉強しに::to study Japanese}}来ました。
 
 # Counting People
-私のクラスに(は)スウェーデン人の学生{{c1::が一人います::one person}}。
+26,私のクラスに(は)スウェーデン人の学生{{c1::が一人います::one person}}。
 
