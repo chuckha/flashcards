@@ -7,4 +7,4 @@ vocab/vocab.txt: $(vocabs)
 	go run build.go vocab
 
 sentences/sentences.txt: $(sentences)
-	go run build.go sentences
+	cat $(sentences) | grep -v '^$$' | grep -v '^#' > sentences/sentences.txt

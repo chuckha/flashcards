@@ -1,27 +1,27 @@
-"I saw an interesting movie yesterday.",きのう、おもしろい 映[えい] 画[が]を見ました。
-"Professor Yamashita is a scary teacher.",山[やま] 下[した] 先[せん] 生[せい]はこわいせんせいです。
-"I took a beautiful picture in Kyoto.",京[きょう] 都[と]できれいな 写[しゃ] 真[しん]を 撮[と]りました。
-"Professor Yamashita is an energetic teacher.",山[やま] 下[した] 先[せん] 生[せい]は 元[げん] 気[き]な 先[せん] 生[せい]です。
-"it is cold",さむ<u>いです</u>
-"it is not cold",さむ<u>くないです</u>
-"It was cold",さむ<u>かったです</u>
-"it was not cold",さむ<u>くなかったです</u>
-"it is good",<u>いい</u>です
-"it is not good",<u>よ</u>くないです
-"it was good",<u>よ</u>かったです
-"it was not good",<u>よ</u>くなかったです
-"she is healthy",元[げん] 気[き]です
-"she is not healthy",元[げん] 気[き]じゃないです
-"she was healthy",元[げん] 気[き]でした
-"she was not healthy",元[げん] 気[き]じゃなかったです
-"The sea was very beautiful in Okinawa.",沖[おき] 縄[なわ] の 海[うみ]はとてもきれいでした。
-"This room is a little hot.",この 部[へ] 屋[や]はちょっと 暑[あつ]いです。
-"Robert likes his Japanese classes.",ロバートさんは 日[に] 本[ほん] 語[ご] のクラスが 好[す]きです。
-"Professor Yamashita dislikes fish.",山[やま] 下[した] 先[せん] 生[せい]は 魚[さかな]がきらいです。
-"Takeshi likes coffee a lot.",たけしさんはコーヒーが 大[だい] 好[す]きです。
-"Ms. Kim hates natto.",キムさんはなっとうが 大[だい]きらいです。
-"I neither like nor dislike (it).",好[す]きでもきらいでもないです。
-"This is my favorite book.",これは 私[わたし]の 好[す]きな 本[ほん]です。
-"Let's study in the library together.",一[いっ] 緒[しょ]に 図[と] 書[しょ] 館[かん]で 勉[べん] 強[きょう]しましょう。
-"Shall we drink coffee at a coffee shop?",喫[きっ] 茶[さ] 店[てん]でコーヒーを 飲[の]みましょうか。
-"Lee bought three stamps.",リーさんは 切[きっ] 手[て]を 三[さん] 枚[まい] 買[か]いました。
+きのう、{{c1::おもしろい}}映画を見ました。
+山下先生は{{c1::こわい}}先生です。
+京都で{{c1::きれいな}}写真を撮りました。
+山下先生は{{c1::元気な}}先生です。
+さむ{{c1::いです::present affirmative}}
+さむ{{c1::くないです::present negative}}
+さむ{{c1::かったです::past affirmative}}
+さむ{{c1::くなかったです::past negative}}
+{{c1::いい}}{{c2::です::present affirmative}}
+{{c1::よ}}{{c2::くないです::present negative}}
+{{c1::よ}}{{c2::かったです::past affirmative}}
+{{c1::よ}}{{c2::くなかったです::past negative}}
+元気{{c1::です::present affirmative}}
+元気{{c1::じゃないです::present negative}}
+元気{{c1::でした::past affirmative}}
+元気{{c1::じゃなかったです::past negative}}
+沖縄の海は{{c1::とても}}きれいでした。
+この部屋は{{c1::ちょっと}}暑いです。
+ロバートさんは日本語のクラスが{{c1::好きです}}。
+山下先生は魚が{{c1::きらいです}}。
+たけしさんはコーヒーが{{c1::大}}好きです。
+キムさんはなっとうが{{c1::大}}きらいです。
+{{c1::好き}}でも{{c1::きらい}}でも{{c2::ないです}}。
+これは{{c1::私の好きな}}本です。
+一緒に図書館で{{c1::勉強しましょう}}。
+喫茶店でコーヒーを{{c1::飲みましょうか}}。
+リーさんは切手を{{c1::三枚}}買いました。
