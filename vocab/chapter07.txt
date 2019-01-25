@@ -63,7 +63,7 @@ to get married (〜と),結婚[けっこん]する
 
 # Adverbs and Other Expressions
 "...,but",〜が
-not...anything,何[]も+negative
+not...anything,何[なに]も+negative
 [counter for anything],〜人[にん]
 one person,一[ひと] 人[り]
 two people,二[ふた] 人[り]

@@ -1,0 +1,62 @@
+# Nouns
+the day after tomorrow,あさって
+rain,雨[あ]め
+office worker,会[かい] 社[しゃ] 員[いん]
+camera,カメラ
+karaoke,カレオケ
+air,空[くう] 気[き]
+this morning,今朝[けさ]
+blackboard,黒[こく] 板[ばん]
+this month,今[こん] 月[げつ]
+job; work; occupation,仕[し] 事[ごと]
+college student,大[だい] 学[がく] 生[せい]
+weather forecast,天[てん] 気[き] 予[よ] 報[ほう]
+place,所[ところ]
+tomato,トマト
+summer,夏[なつ]
+something,何[なに]か
+party,パーティー
+barbecue,バーベキュー
+chopsticks,はし
+winter,冬[ふゆ]
+homestay; living with a local family,ホームステイ
+every week,毎[まい] 週[しゅう]
+next month,来[らい] 月[げつ]
+
+# な-adjectives
+skillful; good at... (〜が),上[じょう] 手[ず](な)
+clumsy; poor at... (〜が),下手[へた](な)
+famous,有[ゆう] 名[めい](な)
+
+# U-verbs
+it rains,雨[あめ]が 降[ふ]る
+to wash (〜を),洗[あら]う
+to say,言[い]う
+to need (〜が),いる
+to be late,遅[おそ]くなる
+to think,思[おも]う
+to cut (〜を),切[き]る
+to make (〜を),作[つく]る
+to take (a thing) (〜を),持[も]っていく
+
+# Ru-verbs
+to stare (at...) (〜を),じろじろ見[み]る
+to throw away (〜を),捨[す]てる
+to begin (〜を),始[はじ]める
+
+# Irregular Verbs
+to drive (〜を),運[うん] 転[てん]する
+to do laundry (〜を),洗[せん] 濯[たく]する
+to clean (〜を),掃[そう] 除[じ]する
+to call  (〜に),電[でん] 話[わ]する
+to cook,料[りょう] 理[り]する
+
+# Adverbs and Other Expressions
+always,いつも
+uh-uh; no,ううん
+uh-huh; yes,うん
+Cheers! (a toast),乾[かん] 杯[ぱい]
+That's too bad.,残[ざん] 念[ねん](ですね)
+about...; concerning...,〜について
+not...yet,まだ＋negative
+all (of the people) together,みんなで

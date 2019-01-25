@@ -188,7 +188,7 @@ to lose weight	やせる	chapter07
 to be thin	やせています	chapter07
 to get married (〜と)	結婚[けっこん]する	chapter07
 ...,but	〜が	chapter07
-not...anything	何[]も+negative	chapter07
+not...anything	何[なに]も+negative	chapter07
 [counter for anything]	〜人[にん]	chapter07
 one person	一[ひと] 人[り]	chapter07
 two people	二[ふた] 人[り]	chapter07
@@ -196,3 +196,54 @@ nothing in particular	別[べつ]に+negative	chapter07
 Hello? (used on the phone)	もしもし	chapter07
 of course	もちろん	chapter07
 if you like	よかったら	chapter07
+the day after tomorrow	あさって	chapter08
+rain	雨[あ]め	chapter08
+office worker	会[かい] 社[しゃ] 員[いん]	chapter08
+camera	カメラ	chapter08
+karaoke	カレオケ	chapter08
+air	空[くう] 気[き]	chapter08
+this morning	今朝[けさ]	chapter08
+blackboard	黒[こく] 板[ばん]	chapter08
+this month	今[こん] 月[げつ]	chapter08
+job; work; occupation	仕[し] 事[ごと]	chapter08
+college student	大[だい] 学[がく] 生[せい]	chapter08
+weather forecast	天[てん] 気[き] 予[よ] 報[ほう]	chapter08
+place	所[ところ]	chapter08
+tomato	トマト	chapter08
+summer	夏[なつ]	chapter08
+something	何[なに]か	chapter08
+party	パーティー	chapter08
+barbecue	バーベキュー	chapter08
+chopsticks	はし	chapter08
+winter	冬[ふゆ]	chapter08
+homestay; living with a local family	ホームステイ	chapter08
+every week	毎[まい] 週[しゅう]	chapter08
+next month	来[らい] 月[げつ]	chapter08
+skillful; good at... (〜が)	上[じょう] 手[ず](な)	chapter08
+clumsy; poor at... (〜が)	下手[へた](な)	chapter08
+famous	有[ゆう] 名[めい](な)	chapter08
+it rains	雨[あめ]が 降[ふ]る	chapter08
+to wash (〜を)	洗[あら]う	chapter08
+to say	言[い]う	chapter08
+to need (〜が)	いる	chapter08
+to be late	遅[おそ]くなる	chapter08
+to think	思[おも]う	chapter08
+to cut (〜を)	切[き]る	chapter08
+to make (〜を)	作[つく]る	chapter08
+to take (a thing) (〜を)	持[も]っていく	chapter08
+to stare (at...) (〜を)	じろじろ見[み]る	chapter08
+to throw away (〜を)	捨[す]てる	chapter08
+to begin (〜を)	始[はじ]める	chapter08
+to drive (〜を)	運[うん] 転[てん]する	chapter08
+to do laundry (〜を)	洗[せん] 濯[たく]する	chapter08
+to clean (〜を)	掃[そう] 除[じ]する	chapter08
+to call  (〜に)	電[でん] 話[わ]する	chapter08
+to cook	料[りょう] 理[り]する	chapter08
+always	いつも	chapter08
+uh-uh; no	ううん	chapter08
+uh-huh; yes	うん	chapter08
+Cheers! (a toast)	乾[かん] 杯[ぱい]	chapter08
+That's too bad.	残[ざん] 念[ねん](ですね)	chapter08
+about...; concerning...	〜について	chapter08
+not...yet	まだ＋negative	chapter08
+all (of the people) together	みんなで	chapter08
